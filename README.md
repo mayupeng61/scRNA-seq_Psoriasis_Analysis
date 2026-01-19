@@ -27,7 +27,6 @@ The full list of R packages and versions used in this analysis is detailed in `s
 Key packages include:
 * Seurat v5.3.0
 * CellChat v2.1.2
-* clusterProfiler
 * irGSEA
 
 ### Python Environment
