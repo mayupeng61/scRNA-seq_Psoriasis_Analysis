@@ -13,7 +13,7 @@ The analysis pipeline is organized into numbered scripts to ensure reproducibili
 * `03_CellChat_Multisample_Analysis.R`: Cell-cell communication analysis using CellChat.
 * `04_fibroblasts_subclustering.R`: Sub-clustering analysis specifically for the Fibroblast population.
 * `05_fibroblasts_expression_and_mechanism_analysis.R`: Differential expression and mechanistic studies within fibroblast subtypes.
-* `06_pathway_enrichment_analysis.R`: GO/KEGG and other pathway enrichment analyses (using clusterProfiler, irGSEA, etc.).
+* `06_pathway_enrichment_analysis.R`: GSEA pathway enrichment analyses (using GSEA, irGSEA, etc.).
 * `07_Regulon_AUCell_RSS_Fibroblasts.R`: Post-processing of SCENIC results, including AUCell scoring and RSS visualization.
 
 ### Python Analysis Pipeline (GRN Inference)
