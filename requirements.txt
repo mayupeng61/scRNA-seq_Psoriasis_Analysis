@@ -1,0 +1,7 @@
+pyscenic==0.12.1
+dask==2023.5.0
+pandas==2.0.3
+numpy==1.24.4
+seaborn==0.13.2
+arboreto==0.1.6
+ctxcore==0.2.0
